@@ -1,1 +1,1 @@
-University practice in computer graphics: manual by-pixel raycasting for analytical shapes
+University assignment in computer graphics: by-pixel raycasting for analytical shapes
